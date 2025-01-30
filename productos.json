@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "nombre": "Cien años de soledad",
+      "descripcion": "Una obra maestra de Gabriel García Márquez sobre el realismo mágico en el pueblo de Macondo.",
+      "precio": 14.99,
+      "imagen": "http://localhost/ApiProductos/images/cien.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "1984",
+      "descripcion": "Una distopía política de George Orwell que explora la vigilancia y el totalitarismo.",
+      "precio": 12.99,
+      "imagen": "http://localhost/ApiProductos/images/1984.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "El amor en los tiempos del cólera",
+      "descripcion": "Una historia de amor épica de Gabriel García Márquez que atraviesa décadas de separación.",
+      "precio": 16.99,
+      "imagen": "http://localhost/ApiProductos/images/colera.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "La sombra del viento",
+      "descripcion": "Un thriller literario de Carlos Ruiz Zafón, donde el misterio rodea a un libro olvidado.",
+      "precio": 18.99,
+      "imagen": "http://localhost/ApiProductos/images/viento.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Don Quijote de la Mancha",
+      "descripcion": "La famosa novela de Miguel de Cervantes que relata las aventuras de un caballero idealista.",
+      "precio": 10.99,
+      "imagen": "http://localhost/ApiProductos/images/quijote.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "El principito",
+      "descripcion": "Un cuento filosófico de Antoine de Saint-Exupéry sobre la vida y la humanidad.",
+      "precio": 8.99,
+      "imagen": "http://localhost/ApiProductos/images/principito.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Matar a un ruiseñor",
+      "descripcion": "Una novela de Harper Lee sobre la injusticia racial en el sur de los Estados Unidos.",
+      "precio": 13.99,
+      "imagen": "http://localhost/ApiProductos/images/matar.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Harry Potter y la piedra filosofal",
+      "descripcion": "La primera entrega de la famosa saga de J.K. Rowling sobre un joven mago en el colegio Hogwarts.",
+      "precio": 22.99,
+      "imagen": "http://localhost/ApiProductos/images/harry.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Orgullo y prejuicio",
+      "descripcion": "Una historia de amor y conflictos sociales escrita por Jane Austen.",
+      "precio": 11.99,
+      "imagen": "http://localhost/ApiProductos/images/orgullo.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Cumbres Borrascosas",
+      "descripcion": "Una novela apasionada y trágica de Emily Brontë sobre el amor y la venganza en Yorkshire.",
+      "precio": 14.49,
+      "imagen": "http://localhost/ApiProductos/images/cumbres.jpg"
+    }
+  ]
+  
